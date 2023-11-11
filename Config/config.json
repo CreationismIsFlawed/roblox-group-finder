@@ -1,10 +1,10 @@
 {
     "performance": {
-        "process": 2,
-        "threads": 100
+        "process": 10,
+        "threads": 200
     },
     "request": {
-        "module": "socket/httpx/aiohttp/requests",
+        "module": "socket",
         "timeout": 5,
         "proxyLess": false
     },
@@ -18,7 +18,7 @@
         "batchsize": 100
     },
     "webhook": {
-        "url": "webhok enteration frfr",
+        "url": "https://discord.com/api/webhooks/1129418264263536640/as9prhrQZkVc0lP6lAaJSnhy0G-NpdhP5magq_B7eMZoC8AS8hLm5n4XA09ZOOmuE5R1",
         "groupPing": true
     },
     "proxy": {
